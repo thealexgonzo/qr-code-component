@@ -1,7 +1,7 @@
 :root {
   --white: hsl(0, 0%, 100%);
   --light_gray: hsl(212, 45%, 89%);
-  --shadow_gray: hsl(217, 15%, 73%);
+  --shadow_gray: hsl(218, 29%, 84%);
   --grayish_blue: hsl(219, 12%, 66%);
   --dark_blue: hsl(218, 44%, 22%);
   --weight_regular: 400;
@@ -41,7 +41,7 @@ body {
   align-items: center;
   flex-direction: column;
   text-align: center;
-  box-shadow: 0rem 2rem 8rem var(--shadow_gray);
+  box-shadow: 0rem 3rem 3rem var(--shadow_gray);
 }
 
 .card img {
